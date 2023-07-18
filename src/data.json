@@ -1,0 +1,52 @@
+
+  [  {
+      "Name": "Laptop Dell Vostro 5620",
+      
+      "PhongVu": 
+      {
+        "Price": 21890000,
+        "Web": "PhongVu",
+        "Photo": "https://lh3.googleusercontent.com/bfMEAqLupCvcpKtMN39DDpJwAQxHTBmIq6Mh0zvT6x973O-4lBWC4B2BG7L4X-CvB4MB9qspgCRzSGrrtTI01jhuFXT1JppDkA=w500-rw",
+        "LinkWeb": "https://phongvu.vn/laptop-dell-vostro-5620-70282719--s220503340"
+      },
+      "FPT": {
+        "Price": 23590000,
+        "Web": "FPT",
+        "Photo": "https://images.fpt.shop/unsafe/fit-in/240x215/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/7/11/637931472299277646_dell-vostro-v5620-xam-dd.jpg",
+        "LinkWeb": "https://fptshop.com.vn/may-tinh-xach-tay/dell-vostro-v5620-i5-1240p-mx570"
+      },
+      "Hacom": {
+        "Price": 21999000,
+        "Web": "Hacom",
+        "Photo": "https://hanoicomputercdn.com/media/product/120_66383_hacom_dell_vostro_5620_6.png",
+        "LinkWeb": "https://hacom.vn/laptop-dell-vostro-5620-70282719-win11-xam"
+      },
+      "LowestPriceWeb" : "PhongVu"
+    },
+    {
+      
+      "Name": "Laptop ACER Aspire 7 A715-76-57CY", 
+      
+      "PhongVu": 
+      {
+        "Price": 14490000,
+        "Web": "PhongVu",
+        "Photo": "https://lh3.googleusercontent.com/lozIMF9aj3odWNYLXYn7DocjDzwfu7pC0UMWsp4ctueCraGdP9ee_cGeAJjXgiZkQUV6aK_5i-m2XtdDwOoqSfRdNBgXnsA=w500-rw",
+        "LinkWeb": "https://phongvu.vn/may-tinh-xach-tay-laptop-acer-aspire-7-a715-76-57cy-nh-qgesv-004-i5-12450h-den--s230402668"
+      },
+      "FPT": {
+        "Price": 13990000,
+        "Web": "FPT",
+        "Photo": "https://images.fpt.shop/unsafe/fit-in/240x215/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/6/6/638216639882650079_acer-aspire-7-gaming-a715-76-den-dd.jpg",
+        "LinkWeb": "https://fptshop.com.vn/may-tinh-xach-tay/acer-aspire-7-gaming-a715-76-57cy-i5-12450h"
+      },
+      "Hacom": {
+        "Price": null,
+        "Web": null,
+        "Photo": null,
+        "LinkWeb": null
+      },
+      "LowestPriceWeb" : "FPT"
+    }
+    
+  ]
