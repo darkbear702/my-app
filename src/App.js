@@ -21,7 +21,7 @@ function App() {
   const [products, setProducts] = useState(data);
   const [productList, setProductList] = useState([]);
   const [searchName, setSearchName] = useState('');
-  const [searchPrice, setSearchPrice] = useState();
+  const [searchPrice, setSearchPrice] = useState(99999999999);
   const handleSearch = (e) => {
     e.preventDefault();
     const filteredProducts = products.filter(product => {
@@ -49,8 +49,12 @@ function App() {
                 <br />
                 <strong class="product-title">Name: {product.Name}</strong>
                 <a href={product.PhongVu?.LinkWeb}><p class="product-price">Best price: PhongVu: {product.PhongVu.Price} VND</p></a>
-                <a href={product.FPT?.LinkWeb}><p class="product-description">FPT Price: {product.FPT?.Price} VND</p></a>
-                <a href={product.Hacom?.LinkWeb}><p class="product-description">Hacom Price: {product.Hacom?.Price} VND</p></a>
+                {product.FPT?.LinkWeb && (
+                  <a href={product.FPT?.LinkWeb}><p class="product-description">FPT Price: {product.FPT?.Price} VND</p></a>
+                )}
+                {product.Hacom?.LinkWeb && (
+                  <a href={product.Hacom.LinkWeb}><p class="product-description">Hacom Price: {product.Hacom.Price} VND</p></a>
+                )}
                 <br></br>
               </div>
             </div>
@@ -66,8 +70,13 @@ function App() {
                 <br />
                 <strong class="product-title">Name: {product.Name}</strong>
                 <a href={product.FPT?.LinkWeb}><p class="product-price">Best price: FPT: {product.FPT.Price} VND</p></a>
+                {product.PhongVu?.LinkWeb && (
                 <a href={product.PhongVu?.LinkWeb}><p class="product-description" >PhongVu Price: {product.PhongVu?.Price} VND</p></a>
-                <a href={product.Hacom?.LinkWeb}><p class="product-description">Hacom Price: {product.Hacom?.Price} VND</p></a>
+                )}
+                
+                {product.Hacom?.LinkWeb && (
+                  <a href={product.Hacom.LinkWeb}><p class="product-description">Hacom Price: {product.Hacom.Price} VND</p></a>
+                )}
                 <br></br>
               </div>
             </div>
@@ -84,8 +93,13 @@ function App() {
                 <br />
                 <strong class="product-title">Name: {product.Name}</strong>
                 <a href={product.Hacom?.LinkWeb}><p class="product-price">Best price: Hacom: {product.Hacom.Price} VND</p></a>
-                <a href={product.FPT?.LinkWeb}><p class="product-description">FPT Price: {product.FPT?.Price} VND</p></a>
-                <a href={product.PhongVu?.LinkWeb}><p class="product-description">PhongVu Price: {product.PhongVu?.Price} VND</p></a>
+                {product.FPT?.LinkWeb && (
+                  <a href={product.FPT?.LinkWeb}><p class="product-description">FPT Price: {product.FPT?.Price} VND</p></a>
+                )}
+                
+                {product.PhongVu?.LinkWeb && (
+                <a href={product.PhongVu?.LinkWeb}><p class="product-description" >PhongVu Price: {product.PhongVu?.Price} VND</p></a>
+                )}
                 <br></br>
               </div>
             </div>
@@ -96,8 +110,8 @@ function App() {
 
   return (
     <div>
-      <h1>Products</h1>
-      
+      <h1>Comparison shopping website</h1>
+      <br/><br/>
       <div>
         <form onSubmit={handleSearch}>
         <input
@@ -108,7 +122,7 @@ function App() {
         />
         <input
           type="int"
-          placeholder="Price"
+          placeholder="Maximun Price"
           value={searchPrice}
           onChange={(e)=>setSearchPrice(e.target.value)}
         

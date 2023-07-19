@@ -1,52 +1,211 @@
-
-  [  {
-      "Name": "Laptop Dell Vostro 5620",
-      
-      "PhongVu": 
-      {
-        "Price": 21890000,
-        "Web": "PhongVu",
-        "Photo": "https://lh3.googleusercontent.com/bfMEAqLupCvcpKtMN39DDpJwAQxHTBmIq6Mh0zvT6x973O-4lBWC4B2BG7L4X-CvB4MB9qspgCRzSGrrtTI01jhuFXT1JppDkA=w500-rw",
-        "LinkWeb": "https://phongvu.vn/laptop-dell-vostro-5620-70282719--s220503340"
-      },
-      "FPT": {
-        "Price": 23590000,
-        "Web": "FPT",
-        "Photo": "https://images.fpt.shop/unsafe/fit-in/240x215/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/7/11/637931472299277646_dell-vostro-v5620-xam-dd.jpg",
-        "LinkWeb": "https://fptshop.com.vn/may-tinh-xach-tay/dell-vostro-v5620-i5-1240p-mx570"
-      },
-      "Hacom": {
-        "Price": 21999000,
-        "Web": "Hacom",
-        "Photo": "https://hanoicomputercdn.com/media/product/120_66383_hacom_dell_vostro_5620_6.png",
-        "LinkWeb": "https://hacom.vn/laptop-dell-vostro-5620-70282719-win11-xam"
-      },
-      "LowestPriceWeb" : "PhongVu"
+[
+  {
+    "Name": "Laptop Dell Vostro 5620",
+    "PhongVu": {
+       "Price": 21890000,
+       "Photo": "https://lh3.googleusercontent.com/bfMEAqLupCvcpKtMN39DDpJwAQxHTBmIq6Mh0zvT6x973O-4lBWC4B2BG7L4X-CvB4MB9qspgCRzSGrrtTI01jhuFXT1JppDkA=w500-rw",
+       "LinkWeb": "https://phongvu.vn/laptop-dell-vostro-5620-70282719--s220503340"
     },
-    {
-      
-      "Name": "Laptop ACER Aspire 7 A715-76-57CY", 
-      
-      "PhongVu": 
-      {
-        "Price": 14490000,
-        "Web": "PhongVu",
-        "Photo": "https://lh3.googleusercontent.com/lozIMF9aj3odWNYLXYn7DocjDzwfu7pC0UMWsp4ctueCraGdP9ee_cGeAJjXgiZkQUV6aK_5i-m2XtdDwOoqSfRdNBgXnsA=w500-rw",
-        "LinkWeb": "https://phongvu.vn/may-tinh-xach-tay-laptop-acer-aspire-7-a715-76-57cy-nh-qgesv-004-i5-12450h-den--s230402668"
-      },
-      "FPT": {
-        "Price": 13990000,
-        "Web": "FPT",
-        "Photo": "https://images.fpt.shop/unsafe/fit-in/240x215/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/6/6/638216639882650079_acer-aspire-7-gaming-a715-76-den-dd.jpg",
-        "LinkWeb": "https://fptshop.com.vn/may-tinh-xach-tay/acer-aspire-7-gaming-a715-76-57cy-i5-12450h"
-      },
-      "Hacom": {
-        "Price": null,
-        "Web": null,
-        "Photo": null,
-        "LinkWeb": null
-      },
-      "LowestPriceWeb" : "FPT"
-    }
-    
-  ]
+    "FPT": {
+       "Price": 23590000,
+       "Photo": "https://images.fpt.shop/unsafe/fit-in/240x215/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/7/11/637931472299277646_dell-vostro-v5620-xam-dd.jpg",
+       "LinkWeb": "https://fptshop.com.vn/may-tinh-xach-tay/dell-vostro-v5620-i5-1240p-mx570"
+    },
+    "Hacom": {
+       "Price": 21999000,
+       "Photo": "https://hanoicomputercdn.com/media/product/120_66383_hacom_dell_vostro_5620_6.png",
+       "LinkWeb": "https://hacom.vn/laptop-dell-vostro-5620-70282719-win11-xam"
+    },
+    "LowestPriceWeb": "PhongVu"
+ },
+  {
+    "Name": "Laptop ACER Aspire 7 A715-76-57CY",
+    "PhongVu": {
+       "Price": 14490000,
+       "Photo": "https://lh3.googleusercontent.com/lozIMF9aj3odWNYLXYn7DocjDzwfu7pC0UMWsp4ctueCraGdP9ee_cGeAJjXgiZkQUV6aK_5i-m2XtdDwOoqSfRdNBgXnsA=w500-rw",
+       "LinkWeb": "https://phongvu.vn/may-tinh-xach-tay-laptop-acer-aspire-7-a715-76-57cy-nh-qgesv-004-i5-12450h-den--s230402668"
+    },
+    "FPT": {
+       "Price": 13990000,
+       "Photo": "https://images.fpt.shop/unsafe/fit-in/240x215/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/6/6/638216639882650079_acer-aspire-7-gaming-a715-76-den-dd.jpg",
+       "LinkWeb": "https://fptshop.com.vn/may-tinh-xach-tay/acer-aspire-7-gaming-a715-76-57cy-i5-12450h"
+    },
+    "Hacom": {
+       "Price": null,
+       "Photo": "",
+       "LinkWeb": ""
+    },
+    "LowestPriceWeb": "FPT"
+ },
+  {
+    "Name": "Laptop ASUS Vivobook 15 OLED A1505VA",
+    "PhongVu": {
+       "Price": 17790000,
+       "Photo": "https://lh3.googleusercontent.com/Oa4sEcpG7vA0WY8MdYbcVI42wKgKzhCkJZvTV7lQu0CcFJ2BxK3m9lYy-0mWd0lvC-g6YPijeIMWrWaFi_KZ7S4jF8CNcef_=w500-rw",
+       "LinkWeb": "https://phongvu.vn/may-tinh-xach-tay-laptop-asus-vivobook-a1505va-l1114w-i5-13500h-den--s230304293"
+    },
+    "FPT": {
+       "Price": 17990000,
+       "Photo": "https://images.fpt.shop/unsafe/fit-in/240x215/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/4/19/638175167717566831_asus-vivobook-a1505va-l1113w-i5-13500h-bac-dd-moi.jpg",
+       "LinkWeb": "https://fptshop.com.vn/may-tinh-xach-tay/asus-vivobook-a1505va-l1113w-i5-13500h"
+    },
+    "Hacom": {
+       "Price": null,
+       "Photo": "",
+       "LinkWeb": ""
+    },
+    "LowestPriceWeb": "PhongVu"
+ },
+  {
+    "Name": "Laptop Dell Gaming G15 5530",
+    "PhongVu": {
+       "Price": 39690000,
+       "Photo": "https://lh3.googleusercontent.com/iwljaX5N1Ierjni7yNldT4sMrG_npCbPJJxUgHyoXYNErgjqX3l3RYJr5TdfPl_4LH0lT6IJ1pHrUiwQ0pl5DdPF8rLopxA7=w500-rw",
+       "LinkWeb": "https://phongvu.vn/may-tinh-xach-tay-laptop-dell-gaming-g15-5530-i7h165w11gr4060-i7-13650hx-xam--s230402239"
+    },
+    "FPT": {
+       "Price": 40990000,
+       "Photo": "https://images.fpt.shop/unsafe/fit-in/240x215/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/6/8/638218403023233196_dell-gaming-g15-5530-xam-dd.jpg",
+       "LinkWeb": "https://fptshop.com.vn/may-tinh-xach-tay/dell-gaming-g15-5530-i7-13650hx"
+    },
+    "Hacom": {
+       "Price": null,
+       "Photo": "",
+       "LinkWeb": ""
+    },
+    "LowestPriceWeb": "PhongVu"
+ },
+  {
+    "Name": "Laptop MacBook Air 2020 13.3 inch",
+    "PhongVu": {
+       "Price": 20990000,
+       "Photo": "https://lh3.googleusercontent.com/Ezh1zisXToaMPP30pXE50dnotXpEyxnGsYpbd6uZc6jEWRWhMrMY2EDuXNcWPhw4nfcwwC-mGGVEkkRtRSJE0P3hRPuvCjw=w500-rw",
+       "LinkWeb": "https://phongvu.vn/macbook-air-2020-13-3-mgn63sa-a-m1-8gb-ssd-256gb--s201201617"
+    },
+    "FPT": {
+       "Price": 25590000,
+       "Photo": "https://images.fpt.shop/unsafe/fit-in/240x215/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2020/11/12/637407970062806725_mba-2020-gold-dd.png",
+       "LinkWeb": "https://fptshop.com.vn/may-tinh-xach-tay/macbook-air-13-2020-m1-ram-16gb?dung-luong=256gb"
+    },
+    "Hacom": {
+       "Price": null,
+       "Photo": "",
+       "LinkWeb": ""
+    },
+    "LowestPriceWeb": "PhongVu"
+ },
+  {
+    "Name": "Asus Vivobook 15X OLED",
+    "PhongVu": {
+       "Price": 18990000,
+       "Photo": "https://lh3.googleusercontent.com/TARCgjkeXCyLUDYnX3aXeFDNKXTclSEwYuJ3UXtVppapAEQZYstlUZityTWW4O3Egnhtbhjf6S8jZ5lLt9CfXNlGqV3jodPo1Q=w500-rw",
+       "LinkWeb": "https://phongvu.vn/may-tinh-xach-tay-laptop-asus-s3504va-l1226w-i5-1340p-bac--s230500940"
+    },
+    "FPT": {
+       "Price": 23990000,
+       "Photo": "https://images.fpt.shop/unsafe/fit-in/240x215/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/6/5/638215736568056314_asus-vivobook-s3504va-l1227ws-i7-1360p-vantay-bac-dd.jpg",
+       "LinkWeb": "https://fptshop.com.vn/may-tinh-xach-tay/asus-vivobook-s3504va-l1227ws-i7-1360p"
+    },
+    "Hacom": {
+       "Price": null,
+       "Photo": "",
+       "LinkWeb": ""
+    },
+    "LowestPriceWeb": "PhongVu"
+ },
+  {
+    "Name": "Laptop Dell Vostro 5620 ",
+    "PhongVu": {
+       "Price": 21890000,
+       "Photo": "https://lh3.googleusercontent.com/bfMEAqLupCvcpKtMN39DDpJwAQxHTBmIq6Mh0zvT6x973O-4lBWC4B2BG7L4X-CvB4MB9qspgCRzSGrrtTI01jhuFXT1JppDkA=w500-rw",
+       "LinkWeb": "https://phongvu.vn/laptop-dell-vostro-5620-70282719--s220503340"
+    },
+    "FPT": {
+       "Price": 21999000,
+       "Photo": "https://lh3.googleusercontent.com/bfMEAqLupCvcpKtMN39DDpJwAQxHTBmIq6Mh0zvT6x973O-4lBWC4B2BG7L4X-CvB4MB9qspgCRzSGrrtTI01jhuFXT1JppDkA=w500-rw",
+       "LinkWeb": "https://hacom.vn/laptop-dell-vostro-5620-70282719-win11-xam"
+    },
+    "Hacom": {
+       "Price": null,
+       "Photo": "",
+       "LinkWeb": ""
+    },
+    "LowestPriceWeb": "PhongVu"
+ },
+  {
+    "Name": "Laptop HP Elitebook 630 G9 ",
+    "PhongVu": {
+       "Price": 20790000,
+       "Photo": "https://lh3.googleusercontent.com/4RQxspkLJsT8USciCMQAtpoC-h7mVMwvw4J_Gk3omzy-Y_sIR9UMreanXvZWXI-CPgXp4nLuuQ6apnRr-hZXhluPTsB2dmg=w500-rw",
+       "LinkWeb": "https://phongvu.vn/laptop-hp-elitebook-630-g9-6m143pa--s220800852"
+    },
+    "FPT": {
+       "Price": null,
+       "Photo": "",
+       "LinkWeb": ""
+    },
+    "Hacom": {
+       "Price": 24999000,
+       "Photo": "https://phongvu.vn/laptop-hp-elitebook-630-g9-6m143pa--s220800852",
+       "LinkWeb": "https://hacom.vn/laptop-hp-elitebook-630-g9-6m146pa-i7-1255u-16gb-ram-512gb-ssd-13.3-fhd-win11-bac"
+    },
+    "LowestPriceWeb": "PhongVu"
+ },
+  {
+    "Name": "Laptop HP Envy X360 13-bf0090TU ",
+    "PhongVu": {
+       "Price": 27990000,
+       "Photo": "https://lh3.googleusercontent.com/AME0tu9R9A1q2PH1k0qclHYdjWEDXYVswJbzbkfSKObb8YcfRGsKN6vOiykCK9RZbrT8uKhdkt8jAx0UmH-8JjUpweHOFRwiIA=w500-rw",
+       "LinkWeb": "https://phongvu.vn/may-tinh-xach-tay-laptop-hp-envy-x360-13-bf0090tu-76b13pa-i7-1250u-xanh--s221003819"
+    },
+    "FPT": {
+       "Price": null,
+       "Photo": "",
+       "LinkWeb": ""
+    },
+    "Hacom": {
+       "Price": 27999000,
+       "Photo": "https://lh3.googleusercontent.com/AME0tu9R9A1q2PH1k0qclHYdjWEDXYVswJbzbkfSKObb8YcfRGsKN6vOiykCK9RZbrT8uKhdkt8jAx0UmH-8JjUpweHOFRwiIA=w500-rw",
+       "LinkWeb": "https://hacom.vn/laptop-hp-envy-x360-13-bf0090tu-76b13pa-i7-1250u-16gb-ram-512gb-ssd-13.3-qhd-cam-ung-but-win11-xanh"
+    },
+    "LowestPriceWeb": "Hacom"
+ },
+  {
+    "Name": "Laptop LG Gram 16ZD90Q-G.AX55A5 ",
+    "PhongVu": {
+       "Price": 31790000,
+       "Photo": "https://lh3.googleusercontent.com/6kD3IwBUpUV2CEmshJ4jZU5WftuyTzuQguV8WURYLZFHtWw0A1ZZ44j76jfNlsJNG7SoG3cwBC1BirQhFq7Hb45NasEQ6Ah1=w500-rw",
+       "LinkWeb": "https://phongvu.vn/laptop-lg-gram-16zd90q-g-ax55a5--s220707618"
+    },
+    "FPT": {
+       "Price": null,
+       "Photo": "",
+       "LinkWeb": ""
+    },
+    "Hacom": {
+       "Price": 26499000,
+       "Photo": "https://lh3.googleusercontent.com/6kD3IwBUpUV2CEmshJ4jZU5WftuyTzuQguV8WURYLZFHtWw0A1ZZ44j76jfNlsJNG7SoG3cwBC1BirQhFq7Hb45NasEQ6Ah1=w500-rw",
+       "LinkWeb": "https://hacom.vn/laptop-lg-gram-16zd90q-g.ax55a5-dos-den-2022"
+    },
+    "LowestPriceWeb": "Hacom"
+ },
+  {
+    "Name": "Laptop LG Gram 17ZD90Q-G.AX73A5 ",
+    "PhongVu": {
+       "Price": 31890000,
+       "Photo": "https://lh3.googleusercontent.com/8gHnn5qeF0amGnHDtfivpeYwl29HWzm_n5Fy1TF-vtb5_-gLPccjTAo6V2kIbb5uSOnX04puAyK5UPhYdUlMB-R1J72IwNzh=w500-rw",
+       "LinkWeb": "https://phongvu.vn/laptop-lg-gram-17zd90q-g-ax73a5--s220707620"
+    },
+    "FPT": {
+       "Price": null,
+       "Photo": "",
+       "LinkWeb": ""
+    },
+    "Hacom": {
+       "Price": 29499000,
+       "Photo": "https://lh3.googleusercontent.com/8gHnn5qeF0amGnHDtfivpeYwl29HWzm_n5Fy1TF-vtb5_-gLPccjTAo6V2kIbb5uSOnX04puAyK5UPhYdUlMB-R1J72IwNzh=w500-rw",
+       "LinkWeb": "https://hacom.vn/laptop-lg-gram-17zd90q-g.ax73a5-dos-xam-2022"
+    },
+    "LowestPriceWeb": "Hacom"
+ }
+ ]
